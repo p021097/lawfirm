@@ -1,0 +1,32 @@
+.main_container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.contactnow_container {
+  /* position: relative; */
+  width: 172px;
+  height: 47px;
+  top: 53px;
+  left: 1116px;
+  color: #ffffff;
+  border: 1px solid #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.contactnow_wrapper {
+  width: 101px;
+  height: 19px;
+  top: 67px;
+  left: 1152px;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: center;
+}

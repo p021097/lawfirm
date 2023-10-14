@@ -1,0 +1,19 @@
+.tabs_container {
+  width: 431px;
+  height: 26px;
+  /* top: 63px; */
+  /* left: 508px; */
+  position: relative;
+  color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  align-items: top;
+  justify-content: space-evenly;
+  cursor: pointer;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: center;
+}
